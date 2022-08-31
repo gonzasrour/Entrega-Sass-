@@ -76,3 +76,28 @@ footer {
 footer ul li a {
     color: white !important;
 }
+
+// sasss
+
+header {
+    background-color: white;
+
+    h1 {
+        color: white;
+    }
+
+    nav {
+        background-color: white;
+
+        a {
+            text-decoration: none;
+            font-weight: bold;
+
+
+            &:hover { 
+                background-color: beige;
+            }
+
+        }
+    }
+}
