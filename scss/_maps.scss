@@ -1,7 +1,7 @@
 /*Maps*/
 
 
-$mapRedes:(facebook:red, instagram:blue, twitter:yellow);
+$mapRedes:(facebook:#1E8449, instagram:blue, twitter:yellow);
 
 @each $redSocial, $color in $mapRedes {
 
@@ -15,7 +15,7 @@ $mapRedes:(facebook:red, instagram:blue, twitter:yellow);
 /*Map - Get*/
 
 
-$estilo: (color:red, tamFuente: 40px, ali: center);
+$estilo: (color:#1E8449, tamFuente: 40px, ali: center);
 
 .pepelepu {
     background-color: map-get($estilo, color );

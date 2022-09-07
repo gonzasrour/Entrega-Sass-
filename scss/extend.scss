@@ -1,10 +1,16 @@
 /*EXTEND*/
 
-.primerEstilo {
-    font-family: Arial, Helvetica, sans-serif;
+.tituloProductos {
+    background-color:  #1E8449;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
     font-weight: bold;
-    text-align: right;
+    padding: 1rem;
+}
 
+.tituloProductos h2 {
+    font-size: 5rem;
 }
 
 
