@@ -1,6 +1,6 @@
 /*Maps*/
 .facebook {
-  color: red; }
+  color: #1E8449; }
 
 .instagram {
   color: blue; }
@@ -10,7 +10,7 @@
 
 /*Map - Get*/
 .pepelepu {
-  background-color: red;
+  background-color: #1E8449;
   font-size: 40px; }
 
 /*EXTEND*/
@@ -21,6 +21,18 @@
 
 .segundoEstilo {
   font-size: 35px; }
+
+/* PRODUCTOS */
+.tituloProductos {
+  background-color: #1E8449;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1rem; }
+
+.tituloProductos h2 {
+  font-size: 5rem; }
 
 .parrafosConHambre {
   font-size: 50px;
@@ -97,5 +109,3 @@ header {
       font-weight: bold; }
       header nav a:hover {
         background-color: beige; }
-
-        
