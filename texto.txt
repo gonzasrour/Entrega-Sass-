@@ -1,0 +1,7 @@
+Hola luciano, 
+
+Te cuento como primero en principal cambie toda mi pagina, desde principio a fin con una nueva idea. 
+
+cree el extend, mixin y map get.
+
+cambio todo nose que deberia especificar todo.
